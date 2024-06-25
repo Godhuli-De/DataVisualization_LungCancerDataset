@@ -8,28 +8,28 @@ The dataset used in this project is survey lung cancer.csv.
 Using Pandas, Matplotlib, Seaborn to perform EDA on Lung Cancer Dataset
 
 **Data Visualization and EDA**
-Distribution Plots: Visualized the distribution of numerical features.
-Count Plots: Displayed the count of categories in categorical features.
-Box Plots: Compared distributions of numerical features across categories.
-Heatmaps: Showed correlations between numerical features.
-Pair Plots: Visualized pairwise relationships between selected features.
-Joint Plots: Examined relationships between pairs of features.
-Feature Importances: Identified important features using a RandomForestClassifier.
+- Distribution Plots: Visualized the distribution of numerical features.
+- Count Plots: Displayed the count of categories in categorical features.
+- Box Plots: Compared distributions of numerical features across categories.
+- Heatmaps: Showed correlations between numerical features.
+- Pair Plots: Visualized pairwise relationships between selected features.
+- Joint Plots: Examined relationships between pairs of features.
+- Feature Importances: Identified important features using a RandomForestClassifier.
 
 
 Plots included:
-countplot
-Bar plot
-boxplot
-Pie chart 
-Violin plot
-Stacked bar plot
-Boxen plot
-Swarm plot
-Joint plot
-Heatmap of Features
-Heatmap of missing values
-feature importances
+* countplot
+* Bar plot
+* boxplot
+* Pie chart 
+* Violin plot
+* Stacked bar plot
+* Boxen plot
+* Swarm plot
+* Joint plot
+* Heatmap of Features
+* Heatmap of missing values
+* feature importances
 
 
 
@@ -45,9 +45,9 @@ feature importances
 
 
 **Key Findings**
-The distribution of lung cancer patients across various attributes.
-Correlations between smoking, alcohol consumption, and lung cancer diagnosis.
-Important features influencing lung cancer prediction.
+- The distribution of lung cancer patients across various attributes.
+- Correlations between smoking, alcohol consumption, and lung cancer diagnosis.
+- Important features influencing lung cancer prediction.
 
 
 
